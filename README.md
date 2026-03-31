@@ -3,6 +3,7 @@
 This project contains bash scripts to automate login for the OverTheWire Bandit challenge and manage passwords efficiently.
 
 ## How to use
+- Make the scripts executable 
 - run ./overTThewire.sh to login to and then Enter the level number
 - run ./passwdOTW.sh to save passwd of a specific level
 - You can paste your own passwds in the ./overthewirePaswwds.txt file 
